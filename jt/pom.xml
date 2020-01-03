@@ -151,5 +151,6 @@
 		<module>jt-sso</module>
 		<module>jt-cart</module>
 		<module>jt-order</module>
+		<module>jt-lock</module>	
 	</modules>
 </project>
